@@ -1,0 +1,27 @@
+{
+    "weddingDetails": {
+      "theme": "Classic Christmas",
+      "venue": "Mom's Little Wedding Chapel",
+      "location": "Mobile, NL",
+      "date": "2023-12-15",
+      "budget": 10000
+    },
+    "checklistItems": [
+      {
+        "category": "Essentials",
+        "items": ["Venue", "Catering", "Photographer", "Officiant", "Wedding Attire"]
+      },
+      {
+        "category": "Decor and Extras",
+        "items": ["Flowers", "Centerpieces", "Lighting", "Guest Favors"]
+      },
+      {
+        "category": "Entertainment",
+        "items": ["Live Band", "First Dance Song", "Photo Booth"]
+      },
+      {
+        "category": "Logistics",
+        "items": ["Invitations", "Seating Chart", "Transportation", "Accommodations"]
+      }
+    ]
+  }
